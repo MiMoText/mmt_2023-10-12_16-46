@@ -22,7 +22,8 @@ It was created on October 10th, 2023.
 * wordles of each topic (https://github.com/MiMoText/mmt_2023-10-12_16-46/tree/main/results/mmt_2023-10-12-16-46/wordles)
 
 Example Topic 34:
-![Wordle Topic 34](/results/mmt_2023-10-12_16-46/wordles/topic_034.png)
+![Wordle Topic 34](https://github.com/MiMoText/mmt_2023-10-12_16-46/blob/main/results/mmt_2023-10-12-16-46/wordles/topic_034.png)
+
 
 ## Derivation of statements for the MiMoTextBase  
 * can be found here: https://github.com/MiMoText/topicmodeling/blob/master/topic%20statements/mmt_2023-10-12_16-46/roman18_200_40t_2000i_200opt_statements_label.csv
