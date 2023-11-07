@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10078774.svg)](https://doi.org/10.5281/zenodo.10078774)
+
 # mmt_2023-10-12_16-46
 Topic Model of roman18 corpus (Oct 2023)
 
@@ -37,4 +39,4 @@ It should be noted that basically every topic is present in every work. However,
 All texts, here used as input files, are in the public domain and can be reused without restrictions. We don’t claim any copyright or other rights on the transcription, markup, metadata or scripts. If you use our data and scripts, for example in research or teaching, please reference this collection using the citation suggestion below.
 
 ## Citation suggestion
-Topic Model of roman18 corpus (Oct 2023), edited by Anne Klee and Julia Röttgermann. Release v0.1.0. Trier: TCDH, 2023. URL: https://github.com/MiMoText/mmt_2023-10-12_16-46.
+Topic Model of roman18 corpus (Oct 2023), edited by Anne Klee and Julia Röttgermann. Release v0.1.0. Trier: TCDH, 2023. URL: https://github.com/MiMoText/mmt_2023-10-12_16-46. DOI: 10.5281/zenodo.10078774.
